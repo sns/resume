@@ -1,0 +1,224 @@
+{
+  "basics": {
+    "name": "Sina Salehi",
+    "label": "",
+    "picture": "",
+    "email": "sina.it@gmail.com",
+    "phone": "(443) 862-0395",
+    "website": "http://sinasalehi.com",
+    "summary": "I have been building applications using various languages and technologies for almost 5 years. I am currently working as a senior software developer at PeakeSoftware. In my spare time, I have been working with graph databases, machine learning algorithms on big data sources and reading about new technologies. I am looking for a position in an agile environment within a small team of developers.",
+    "location": {
+      "address": "222 E Saratoga St",
+      "postalCode": "MD 21202",
+      "city": "Baltimore",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sina",
+        "url": "https://www.linkedin.com/pub/sina-salehi/42/a59/bbb"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DST Brokerage Solutions",
+      "position": "Senior Software Developer",
+      "website": "",
+      "startDate": "May 2015",
+      "endDate": "August 2016",
+      "summary": "Worked on an application designed to replace paper forms, gather investment information, and determine if the potential investment is suitable. The product is used by fortune 500 investment companies.",
+      "highlights": [
+        "Designed and developed a compliance rule engine.",
+        "Used technologies/tools such as Spring Framework, JBoss, Backbone.js, Handlebars.js, Junit"
+      ]
+    },
+    {
+      "company": "DST Converge",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "June 2013",
+      "endDate": "May 2015",
+      "summary": "contributed to building and maintaiing an enterprise social networking platform and CMS.",
+      "highlights": [
+        "Developed and maintained an internal self-hosted or SAAS-based social networking platform for 13.5k concurrent users.",
+        "Implemented features such as ,user groups, file management, pre-post validations based on rule checking.",
+        "Developed a platform to facilitate software development by outlining the software development lifecycle (S.D.L.C.), offer community question and answer forums, onboard associates, and schedule software product development.",
+        "Built Puppet scripts to provision development machines.",
+        "Used graph database to built activity stream and notification system.",
+        "Developed and used an MVC framework.",
+        "Contributed to development of a graph database ORM.",
+        "Maintained 80% Unit Test code coverage.",
+        "Maintained Android application."
+      ]
+    },
+    {
+      "company": "Simulator Developer Co",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "June 2010",
+      "endDate": "June 2012",
+      "summary": "Worked on Asmandez, which is a browser-based sci-fi strategy MMOG in the space opera genre. The game uses the latest web technologies, including HTML5 canvas inside the game and to show the in game cut-scenes.",
+      "highlights": [
+        "Worked as a programmer, game developer and researcher",
+        "Worked with ZeroMQ to build the massage queue systems between the business- logic layers."
+      ]
+    },
+    {
+      "company": "University Of Maryland Baltimore County",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "September 2012",
+      "endDate": "May 2014",
+      "summary": "",
+      "highlights": [
+        "Researched on effective use of SVD (Singular Value Decomposition) in data feature reduction and feature selection",
+        "Researched on Clustering The Normalized Compression Distance For Malwares Instances"
+      ]
+    },
+    {
+      "company": "Iran University of Science and Technology",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "September 2010",
+      "endDate": "September 2011",
+      "summary": "Teaching Assistant for courses \"Computer Architecture\" and \"Web Programming\" ",
+      "highlights": [
+        "Tutored students in web-development skills and technologies including PHP, Microsoft ASP.NET, JavaScript, HTML, and CSS."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland Baltimore County (UMBC)",
+      "area": "Computer Science",
+      "studyType": "Masters of science",
+      "startDate": "August 2012",
+      "endDate": "May 2014",
+      "gpa": "",
+      "courses": [
+        "Distributed Systems",
+        "Machine learning",
+        "Advanced Network",
+        "Malware Analysis",
+        "Data Mining",
+        "Semantic Web"
+      ]
+    },
+    {
+      "institution": "Iran University of Science and Technology",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "August 2007",
+      "endDate": "May 2012",
+      "gpa": "",
+      "courses": [
+        "Analysis of Algorithms",
+        "Database Systems",
+        "Data Structures"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+		"jQuery",
+        "PHP",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "PROGRAMMING LANGUAGES",
+      "level": "",
+      "keywords": [
+        "JAVA",
+        "C++",
+		"Objective C",
+        "C#",
+        "R",
+        "Erlang"
+      ]
+    },
+    {
+      "name": "DATABASE",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "TitanDB",
+        "OrientDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "DEV OPS",
+      "level": "",
+      "keywords": [
+        "Puppet",
+        "Chef",
+        "AWS"
+      ]
+    },
+    {
+      "name": "PROCESS",
+      "level": "",
+      "keywords": [
+        "Agile",
+        "CI",
+        "TDD"
+      ]
+    },
+    {
+      "name": "OTHER TECH",
+      "level": "",
+      "keywords": [
+        "Git",
+        "SVN",
+        "Apache",
+		"IIS",
+        "JBoss",
+        "Spring",
+        "Backbone.js",
+        "Handlebars.js",
+        "Rexster",
+        "Vagrant",
+        "PubSub",
+        "Sphinx",
+        "REST",
+        "SPARQL",
+        "RDF",
+        "Message Queue"
+      ]
+    },
+    {
+      "name": "OPERATING SYSTEMS",
+      "level": "",
+      "keywords": [
+        "Microsoft Windows family",
+        " Linux",
+        "OSX"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
